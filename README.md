@@ -20,6 +20,6 @@
 
 ## Me segue lá!
 <div style="display: inline-block">
-    <a href="https://www.linkedin.com/in/renan-reis-716491105/"><img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/"><img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/renan-reis-716491105/" target="_blank"><img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/" target="_blank"><img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
